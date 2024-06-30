@@ -35,7 +35,7 @@
   <strong>Backend<strong>
   <br/>
     <a href="https://www.java.com"><img src="icons/Java.png" alt="Java" width="40" height="40"></a>
-      <a href="https://www.python.org"><img src="icons/Python.png" alt="Python" width="40" height="40"></a>
+      <a href="https://www.python.org"><img src="icons/python.png" alt="Python" width="40" height="40"></a>
         <a href="https://nodejs.org"><img src="icons/NodeJS.png" alt="Node.js" width="40" height="40"></a>
 
 <a href="https://spring.io/"><img src="icons/Spring.png" alt="Spring" width="40" height="40"></a>
@@ -45,24 +45,24 @@
   <hr/>
   <strong>Frontend<strong>
   <br/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/html.png" alt="HTML" width="40" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/css.png" alt="CSS" width="40" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/javascript.png" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/HTML.png" alt="HTML" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/CSS.png" alt="CSS" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="icons/javascript.png" alt="JavaScript" width="40" height="40"></a>
 
-<a href="https://tailwindcss.com"><img src="icons/tailwind.png" alt="Tailwind" width="40" height="40"></a>
-<a href="https://getbootstrap.com"><img src="icons/bootstrap.png" alt="Bootstrap" width="40" height="40"></a> <a href="https://sass-lang.com"><img src="icons/sass.png" alt="Sass" width="40" height="40"></a>
+<a href="https://tailwindcss.com"><img src="icons/Tailwind.png" alt="Tailwind" width="40" height="40"></a>
+<a href="https://getbootstrap.com"><img src="icons/Bootstrap.png" alt="Bootstrap" width="40" height="40"></a> <a href="https://sass-lang.com"><img src="icons/Sass.png" alt="Sass" width="40" height="40"></a>
 <br/>
-<a href="https://vuejs.org"><img src="icons/vue.png" alt="Vue.js" width="40" height="40"></a>
-<a href="https://nuxtjs.org"><img src="icons/nuxt.png" alt="Nuxt.js" width="40" height="40"></a>
-<a href="https://www.typescriptlang.org"><img src="icons/typescript.png" alt="TypeScript" width="40" height="40"></a>
+<a href="https://vuejs.org"><img src="icons/Vue.png" alt="Vue.js" width="40" height="40"></a>
+<a href="https://nuxtjs.org"><img src="icons/Nuxt.png" alt="Nuxt.js" width="40" height="40"></a>
+<a href="https://www.typescriptlang.org"><img src="icons/Typescript.png" alt="TypeScript" width="40" height="40"></a>
 
   <hr/>
   <strong>Other<strong>
   <br/>
-  <a href="https://git-scm.com"><img src="icons/git.png" alt="Git" width="40" height="40"></a>
-  <a href="https://github.com"><img src="icons/github.png" alt="GitHub" width="40" height="40" border-radius="15px"></a>
+  <a href="https://git-scm.com"><img src="icons/Git.png" alt="Git" width="40" height="40"></a>
+  <a href="https://github.com"><img src="icons/GitHub.png" alt="GitHub" width="40" height="40" border-radius="15px"></a>
   <a href="https://www.mysql.com/"><img src="icons/MySQL.png" alt="MySQL" width="40" height="40"></a>
-<a href="https://www.mongodb.com"><img src="icons/mongodb.png" alt="MongoDB" width="40" height="40"></a>
+<a href="https://www.mongodb.com"><img src="icons/MongoDB.png" alt="MongoDB" width="40" height="40"></a>
   <br/><br/>
   
 </div>
