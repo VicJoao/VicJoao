@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&Color=white&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Belfort!;+Tudo+Baum?+😊" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&Color=white&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Victor!;+Tudo+Baum?+😊" />
 </h1>
 <div align="center">
   <h2>Passionate Fullstack Developer from Brazil</h2>
@@ -41,14 +41,14 @@
   <strong>Frontend</strong><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/HTML.png" alt="HTML" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/CSS.png" alt="CSS" width="40" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="icons/Javascript.png" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.typescriptlang.org"><img src="icons/Typescript.png" alt="TypeScript" width="40" height="40"></a>
   <a href="https://tailwindcss.com"><img src="icons/Tailwind.png" alt="Tailwind" width="40" height="40"></a>
   <a href="https://getbootstrap.com"><img src="icons/Bootstrap.png" alt="Bootstrap" width="40" height="40"></a>
-  <a href="https://sass-lang.com"><img src="icons/Sass.png" alt="Sass" width="40" height="40"></a>
   <br/>
   <a href="https://vuejs.org"><img src="icons/Vue.png" alt="Vue.js" width="40" height="40"></a>
   <a href="https://nuxtjs.org"><img src="icons/Nuxt.png" alt="Nuxt.js" width="40" height="40"></a>
-  <a href="https://www.typescriptlang.org"><img src="icons/Typescript.png" alt="TypeScript" width="40" height="40"></a>
+  <a href="https://react.dev/"><img src="icons/React.png" alt="React" width="40" height="40"></a>
+  <a href="https://nextjs.org/"><img src="icons/Next.png" alt="Next" width="40" height="40"></a>
   <hr/>
   <strong>Other</strong><br/>
   <a href="https://git-scm.com"><img src="icons/Git.png" alt="Git" width="40" height="40"></a>
