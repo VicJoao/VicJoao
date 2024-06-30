@@ -38,7 +38,7 @@
       <a href="https://www.python.org"><img src="icons/Python.png" alt="Python" width="40" height="40"></a>
         <a href="https://nodejs.org"><img src="icons/NodeJS.png" alt="Node.js" width="40" height="40"></a>
 
-<a href="https://spring.io/"><img src="icons/Spring.png" alt="Java" width="40" height="40"></a>
+<a href="https://spring.io/"><img src="icons/Spring.png" alt="Spring" width="40" height="40"></a>
 <a href="https://flask.palletsprojects.com"><img src="icons/Flask.png" alt="Flask" width="40" height="40"></a>
 <a href="https://expressjs.com"><img src="icons/Express.png" alt="Express.js" width="40" height="40"></a>
 
@@ -61,9 +61,19 @@
   <br/>
   <a href="https://git-scm.com"><img src="icons/git.png" alt="Git" width="40" height="40"></a>
   <a href="https://github.com"><img src="icons/github.png" alt="GitHub" width="40" height="40" border-radius="15px"></a>
+  <a href="https://www.mysql.com/"><img src="icons/MySQL.png" alt="MySQL" width="40" height="40"></a>
 <a href="https://www.mongodb.com"><img src="icons/mongodb.png" alt="MongoDB" width="40" height="40"></a>
   <br/><br/>
   
+</div>
+
+<div align="center">
+  
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BelfortJoao/BelfortJoao/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <br/>
