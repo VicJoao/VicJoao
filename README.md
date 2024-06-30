@@ -47,7 +47,7 @@
   <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="icons/HTML.png" alt="HTML" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/CSS.png" alt="CSS" width="40" height="40"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="icons/javascript.png" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Javascript"><img src="icons/JavaScript.png" alt="JavaScript" width="40" height="40"></a>
 
 <a href="https://tailwindcss.com"><img src="icons/Tailwind.png" alt="Tailwind" width="40" height="40"></a>
 <a href="https://getbootstrap.com"><img src="icons/Bootstrap.png" alt="Bootstrap" width="40" height="40"></a> <a href="https://sass-lang.com"><img src="icons/Sass.png" alt="Sass" width="40" height="40"></a>
