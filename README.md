@@ -18,7 +18,7 @@
     </li>
     <li>
       <strong>Currently Learning</strong>
-      <p>📚 Studying React, Next.js, and web development.</p>
+      <p>📚 Studying Clean Code and Clean Architecture.</p>
     </li>
   </ol>
 </div>
