@@ -23,9 +23,9 @@
   </ol>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/belfortjoao"><img src="icons/linkedin.png" alt="LinkedIn" width="120" height="40"></a>
+  <a href="https://www.linkedin.com/in/gracianojoao/"><img src="icons/linkedin.png" alt="LinkedIn" width="120" height="40"></a>
   <a href="mailto:belfort.joao@proton.me"><img src="icons/email.png" alt="Email" width="120" height="40"></a>
-  <a href="https://portfolio-beige-ten-60.vercel.app/"><img src="icons/portfolio.png" alt="Portfolio" width="120" height="40"></a>
+  <a href="www.joaovictordev.com.br"><img src="icons/portfolio.png" alt="Portfolio" width="120" height="40"></a>
 </div>
 <div align="center"><br>
   <h2>⚒️ Languages, Frameworks, and Tools ⚒️</h2>
