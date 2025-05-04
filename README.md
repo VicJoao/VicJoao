@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gracianojoao/"><img src="icons/linkedin.png" alt="LinkedIn" width="120" height="40"></a>
   <a href="mailto:belfort.joao@proton.me"><img src="icons/email.png" alt="Email" width="120" height="40"></a>
-  <a href="www.joaovictordev.com.br"><img src="icons/portfolio.png" alt="Portfolio" width="120" height="40"></a>
+  <a href="https://www.joaovictordev.com.br"><img src="icons/portfolio.png" alt="Portfolio" width="120" height="40"></a>
 </div>
 <div align="center"><br>
   <h2>⚒️ Languages, Frameworks, and Tools ⚒️</h2>
