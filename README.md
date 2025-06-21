@@ -7,7 +7,7 @@
   <ol align="left">
     <li>
       <strong>Studies</strong>
-      <p>🌱 Computer Scientist and founder of Cidadanize.</p>
+      <p>🌱 Software Engineer and founder of Cidadanize.</p>
     </li>
     <li>
       <strong>About Me</strong>
